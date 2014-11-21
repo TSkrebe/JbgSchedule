@@ -1,0 +1,40 @@
+^
+Šokis^
+Rusų k.^105
+Lietuvių kalba^112
+Anglų k.^225
+Fizika^218
+^
+Kūno kultūra^
+^
+Matematika^125
+Matematika^125
+Lietuvių kalba^112
+Chemija^220
+Anglų k.^225
+Lietuvių kalba^112
+Geografija^205
+^
+Chemija^220
+Tikyba^209
+Matematika^125
+Lietuvių kalba^112
+Lietuvių kalba^112
+Fizika^218
+Fizika^218
+Geografija^205
+Matematika^125
+Fizika^218
+Šokis^
+Rusų k.^117
+Anglų k.^225
+^
+^
+Kūno kultūra^
+^
+Matematika^125
+Anglų k.^225
+Lietuvių kalba^112
+Rusų k.^202
+Informacinės technologijos^213
+^

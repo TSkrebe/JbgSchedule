@@ -1,0 +1,40 @@
+^
+Matematika^223
+Matematika^223
+Chemija^220
+Fizika^207
+Lietuvių kalba^301
+Šokis^
+^
+^
+Rusų k.^117
+Rusų k.^117
+Biologija^217
+Lietuvių kalba^110
+Matematika^223
+Anglų k.^211
+^
+Istorija^222
+Lietuvių kalba^110
+Lietuvių kalba^110
+Anglų k.^211
+Anglų k.^211
+Rusų k.^206
+Matematika^223
+^
+Informacinės technologijos^213
+Šokis^
+Lietuvių kalba^302
+Matematika^223
+Tikyba^209
+Fizika^207
+Chemija^219
+^
+^
+Lietuvių kalba^212
+Anglų k.^211
+Matematika^223
+Biologija^217
+Istorija^222
+^
+^

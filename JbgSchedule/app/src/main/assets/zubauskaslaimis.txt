@@ -1,0 +1,40 @@
+^
+Šokis^
+Chemija^220
+Lietuvių kalba^112
+Anglų k.^225
+Fizika^218
+Matematika^125
+Kūno kultūra^
+^
+Matematika^125
+Matematika^125
+Lietuvių kalba^112
+Istorija^221
+Anglų k.^225
+^
+^
+^
+Istorija^221
+Informacinės technologijos^214
+Matematika^125
+Lietuvių kalba^112
+Lietuvių kalba^112
+Fizika^218
+Fizika^218
+^
+Matematika^125
+Fizika^218
+Šokis^
+Chemija^220
+Anglų k.^225
+Biologija^216
+^
+Kūno kultūra^
+Biologija^216
+Matematika^125
+Anglų k.^225
+Lietuvių kalba^112
+Chemija^220
+Etika^224
+^

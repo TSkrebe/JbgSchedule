@@ -1,0 +1,40 @@
+^
+Kūno kultūra^
+Progr/leidyba/tinkl/Dorinis^
+Lietuvių kalba^301
+Matematika^212
+Matematika^212
+Fizika^219
+^
+^
+Lietuvių kalba^303
+Fizika^110
+Dailė^108
+Anglų k.^
+Istorija^221
+Programavimas/Dorinis^
+^
+Istorija^221
+Matematika^212
+Rusų k.^
+Biologija^217
+Lietuvių kalba^301
+Lietuvių kalba^301
+Anglų k.^
+^
+Technologijos/Civilinė sauga^
+Technologijos^
+Lietuvių kalba^301
+Anglų k.^
+Chemija^112
+Matematika^212
+Geografija^205
+^
+Chemija^220
+Kūno kultūra^
+Muzika^209
+Pilietiškumo pagrindai^221
+Lietuvių kalba^301
+Matematika^212
+Rusų k.^
+^

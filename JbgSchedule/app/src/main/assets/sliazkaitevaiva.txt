@@ -1,0 +1,40 @@
+^
+Anglų k.^101
+Rusų k.^105
+Matematika^212
+Istorija^127
+Prancūzų k.^105
+^
+^
+^
+Lietuvių kalba^301
+Lietuvių kalba^301
+Matematika^212
+Anglų k.^101
+Istorija^127
+^
+Kūno kultūra^
+^
+Anglų k.^101
+Etika^224
+Lietuvių kalba^301
+Matematika^212
+Matematika^212
+Prancūzų k.^114
+Teatras^
+Teatras^
+Lietuvių kalba^301
+Prancūzų k.^114
+Anglų k.^101
+Rusų k.^117
+Istorija^127
+Biologija^216
+Istorija^127
+Anglų kalba^202
+Biologija^216
+Lietuvių kalba^301
+Kūno kultūra^
+Matematika^212
+Rusų k.^202
+^
+^

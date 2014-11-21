@@ -1,0 +1,40 @@
+Geografija^205
+Matematika^207
+Matematika^207
+Chemija^220
+Istorija^221
+Lietuvių kalba^305
+Šokis^
+^
+^
+Biologija^216
+Biologija^216
+Tinklinis^
+Lietuvių kalba^305
+Matematika^207
+Anglų k.^114
+^
+Rusų k.^114
+Lietuvių kalba^305
+Lietuvių kalba^305
+Anglų k.^114
+Anglų k.^114
+Biologija^216
+Matematika^207
+Etika^224
+^
+Šokis^
+Lietuvių kalba^305
+Matematika^207
+Istorija^221
+Istorija^221
+Chemija^219
+^
+Geografija^205
+Lietuvių kalba^305
+Anglų k.^114
+Matematika^207
+Tinklinis^
+Rusų k.^128
+Rusų k.^126
+^

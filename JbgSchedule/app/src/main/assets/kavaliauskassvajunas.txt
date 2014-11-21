@@ -1,0 +1,40 @@
+Anglų kalba^126
+Matematika^207
+Matematika^207
+Muzika^209
+Fizika^219
+Lietuvių kalba^303
+Informacinės technologijos^210
+^
+^
+Tikyba^209
+Krepšinis^
+Istorija^222
+Lietuvių kalba^303
+Matematika^207
+Anglų k.^114
+^
+^
+Lietuvių kalba^303
+Lietuvių kalba^303
+Anglų k.^114
+Anglų k.^114
+Krepšinis^
+Matematika^207
+^
+^
+Informacinės technologijos^210
+Lietuvių kalba^303
+Matematika^207
+Fizika^203
+Fizika^219
+Muzika^209
+^
+Programavimas mob.^210
+Lietuvių kalba^303
+Anglų k.^114
+Matematika^207
+Istorija^222
+Fizikos uždaviniai^218
+Robotų programavimas^210
+^

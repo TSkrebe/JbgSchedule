@@ -1,0 +1,40 @@
+^
+Anglų k.^101
+Biologija^217
+Matematika^213
+Šokis^
+Chemija^220
+^
+Istorija^127
+^
+Lietuvių kalba^223
+Lietuvių kalba^223
+Matematika^213
+Anglų k.^101
+Kūno kultūra^
+^
+Biologiniai lygmenys^217
+^
+Anglų k.^101
+Istorija^127
+Lietuvių kalba^110
+Matematika^213
+^
+Chemija^220
+^
+^
+Lietuvių kalba^305
+Chemija^220
+Anglų k.^101
+Biologija^217
+Šokis^
+Istorija^127
+^
+Etika^224
+Istorija^127
+Lietuvių kalba^217
+Kūno kultūra^
+Matematika^213
+Biologija^217
+Informacinės technologijos^213
+^

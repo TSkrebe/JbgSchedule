@@ -1,0 +1,40 @@
+^
+Matematika^203
+Matematika^203
+Informacinės technologijos^210
+Fizika^219
+Lietuvių kalba^303
+^
+^
+^
+Tikyba^209
+Tinklinis^
+Istorija^222
+Lietuvių kalba^303
+Matematika^203
+Anglų k.^206
+^
+^
+Lietuvių kalba^303
+Lietuvių kalba^303
+Anglų k.^206
+Anglų k.^206
+Tinklinis^
+Matematika^212
+Integruotas menai^108
+^
+^
+Lietuvių kalba^303
+Matematika^203
+Fizika^203
+Fizika^219
+Informacinės technologijos^210
+Integruotas menai^108
+Programavimas mob.^210
+Lietuvių kalba^303
+Anglų k.^222
+Matematika^218
+Istorija^222
+Anglų kalba^101
+Robotų programavimas^210
+^

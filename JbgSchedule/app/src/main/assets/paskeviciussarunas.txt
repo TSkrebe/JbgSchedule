@@ -1,0 +1,40 @@
+Chemija^220
+Istorija^221
+Šokis^
+Matematika^212
+Anglų k.^204
+Biologija^217
+Lietuvių kalba^301
+^
+^
+Lietuvių kalba^301
+Lietuvių kalba^301
+Matematika^212
+Fizika^218
+Anglų k.^204
+Matematika^212
+^
+^
+Fizika^218
+Krepšinis^
+Lietuvių kalba^301
+Matematika^212
+Matematika^212
+Biologija^217
+Tikyba^209
+^
+Lietuvių kalba^301
+Biologija^217
+Istorija^127
+Šokis^
+Anglų k.^204
+Chemija^220
+^
+Anglų kalba^202
+Chemija^220
+Lietuvių kalba^301
+Anglų k.^204
+Matematika^212
+Krepšinis^
+Matematika^207
+^

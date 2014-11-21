@@ -1,0 +1,40 @@
+^
+Tinklinis ^
+Dailė^108
+Lietuvių kalba^302
+Anglų k.^204
+Rusų k.^117
+Matematika^203
+Istorija^127
+^
+Matematika^203
+Matematika^203
+Lietuvių kalba^302
+Biologija^216
+Anglų k.^204
+Lietuvių kalba^302
+^
+^
+Biologija^216
+Istorija^127
+Matematika^203
+Lietuvių kalba^302
+Lietuvių kalba^302
+Rusų k.^117
+Tikyba^209
+^
+Matematika^203
+Rusų k.^105
+Tinklinis ^
+Dailė^108
+Anglų k.^204
+Istorija^127
+^
+^
+Istorija^127
+Matematika^203
+Anglų k.^204
+Lietuvių kalba^302
+Dailė^108
+Informacinės technologijos^213
+^

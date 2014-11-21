@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JBG tvarkaraštis</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_choose_class">Pasirinkite klasę</string>
+    <string name="title_activity_choose_student">Pasirinkite mokinį</string>
+    <string name="title_activity_choose_class_letter">Pasirinkite 10 klasę</string>
+    <string name="title_activity_choose_class_letter9">Pasirinkite 9 klasę</string>
+    <string name="class9">9</string>
+    <string name="class10">10</string>
+    <string name="class1112">11—12</string>
+    <string name="classA">A</string>
+    <string name="classB">B</string>
+    <string name="classC">C</string>
+    <string name="classD">D</string>
+    <string name="classE">E</string>
+    <string name="classF">F</string>
+    <string name="classG">G</string>
+    <string name="autodrophint">Pavardė Vardas</string>
+    <string name="buttonAdd">Įtraukti naują</string>
+    <string name="buttonInformation">Informacija</string>
+    <string name="addStudent">Pirmyn!!!</string>
+    <string name="title_activity_schedule_time">ScheduleTime</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lesson_name">PAMOKŲ LAIKAS</string>
+
+</resources>

@@ -1,0 +1,40 @@
+^
+Geografija^205
+Chemija^220
+Lietuvių kalba^303
+Anglų k.^202
+Biologija^217
+Matematika^212
+^
+^
+Matematika^212
+Matematika^212
+Lietuvių kalba^303
+Tinklinis ^
+Anglų k.^202
+Lietuvių kalba^303
+Biologiniai lygmenys^217
+^
+Tinklinis ^
+Tikyba^209
+Matematika^212
+Lietuvių kalba^303
+Lietuvių kalba^303
+Biologija^217
+Teatras^
+Teatras^
+Matematika^212
+Biologija^217
+Geografija^205
+Chemija^220
+Anglų k.^202
+^
+Chemijos uždaviniai^220
+^
+Anglų kalba^101
+Matematika^212
+Anglų k.^202
+Lietuvių kalba^303
+Chemija^220
+^
+^

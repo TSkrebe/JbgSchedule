@@ -1,0 +1,40 @@
+^
+Anglų k.^225
+Dailė^108
+Matematika^213
+Istorija^127
+Grafinis dizainas^108
+Lietuvių kalba^110
+^
+^
+Lietuvių kalba^223
+Lietuvių kalba^223
+Matematika^213
+Anglų k.^225
+Istorija^127
+^
+Kūno kultūra^
+^
+Anglų k.^225
+Biologija^217
+Lietuvių kalba^110
+Matematika^213
+^
+^
+^
+Kūno kultūra^
+Lietuvių kalba^305
+Grafinis dizainas^108
+Anglų k.^225
+Dailė^108
+Istorija^127
+Biologija^217
+^
+Anglų kalba^202
+Biologija^217
+Lietuvių kalba^217
+Informacinės technologijos^213
+Matematika^213
+Dailė^108
+Etika^224
+^

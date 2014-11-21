@@ -1,0 +1,40 @@
+^
+Geografija^205
+Šokis^
+Matematika^207
+Anglų k.^101
+Fizika^218
+Lietuvių kalba^110
+^
+^
+Lietuvių kalba^223
+Lietuvių kalba^223
+Matematika^207
+^
+Anglų k.^101
+Matematika^207
+^
+^
+^
+Krepšinis^
+Lietuvių kalba^110
+Matematika^207
+Matematika^207
+Fizika^218
+Fizika^218
+Braižyba^
+Lietuvių kalba^305
+Fizika^218
+Geografija^205
+Šokis^
+Anglų k.^101
+Anglų kalba^126
+^
+^
+Tikyba^301
+Lietuvių kalba^217
+Anglų k.^101
+Matematika^207
+Krepšinis^
+Informacinės technologijos^213
+^

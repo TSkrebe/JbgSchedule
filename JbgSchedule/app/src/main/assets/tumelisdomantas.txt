@@ -1,0 +1,40 @@
+Chemija^220
+Istorija^221
+Anglų k.^101
+Matematika^203
+Biologija^217
+Grafinis dizainas^108
+^
+Kūno kultūra^
+^
+Lietuvių kalba^112
+Lietuvių kalba^112
+Matematika^203
+Fizika^218
+Biologija^217
+^
+Biologiniai lygmenys^217
+^
+Fizika^218
+Anglų k.^101
+Lietuvių kalba^112
+Matematika^203
+Matematika^203
+^
+Tikyba^209
+^
+Lietuvių kalba^112
+Grafinis dizainas^108
+Istorija^127
+Anglų k.^101
+Biologija^217
+Chemija^220
+^
+Kūno kultūra^
+Chemija^220
+Lietuvių kalba^112
+Informacinės technologijos^213
+Matematika^203
+Anglų k.^211
+^
+^

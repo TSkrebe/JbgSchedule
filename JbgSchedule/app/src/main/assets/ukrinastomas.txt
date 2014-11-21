@@ -1,0 +1,40 @@
+^
+Matematika^207
+Matematika^207
+Istorija^222
+Dailė^108
+Lietuvių kalba^303
+Rusų k.^225
+Informacinės technologijos^210
+^
+Fizika^219
+Fizika^219
+Kūno kultūra^
+Lietuvių kalba^303
+Matematika^207
+Anglų k.^206
+^
+Fizikos uždaviniai^219
+Lietuvių kalba^303
+Lietuvių kalba^303
+Anglų k.^206
+Anglų k.^206
+Fizika^219
+Matematika^207
+^
+Rusų k.^204
+Rusų k.^204
+Lietuvių kalba^303
+Matematika^207
+Tikyba^209
+Dailė^108
+Istorija^222
+Ekonomika ir verslas^219
+Ekonomika ir verslas^219
+Lietuvių kalba^303
+Anglų k.^222
+Matematika^207
+Kūno kultūra^
+Informacinės technologijos^210
+^
+Programavimas mob.^210

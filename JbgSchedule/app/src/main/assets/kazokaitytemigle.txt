@@ -1,0 +1,40 @@
+^
+Istorija^221
+Chemija^220
+Lietuvių kalba^302
+Anglų k.^204
+Šokis^
+Matematika^203
+^
+^
+Matematika^203
+Matematika^203
+Lietuvių kalba^302
+Tinklinis ^
+Anglų k.^204
+Lietuvių kalba^302
+^
+Informacinės technologijos^214
+Tinklinis ^
+Biologija^217
+Matematika^203
+Lietuvių kalba^302
+Lietuvių kalba^302
+Anglų kalba^204
+^
+^
+Matematika^203
+Šokis^
+Istorija^127
+Chemija^220
+Anglų k.^204
+Biologija^217
+^
+Biologiniai lygmenys^217
+Biologija^217
+Matematika^203
+Anglų k.^204
+Lietuvių kalba^302
+Chemija^220
+Etika^224
+^

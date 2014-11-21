@@ -1,0 +1,40 @@
+^
+Anglų k.^114
+Šokis^
+Lietuvių kalba^112
+Fizika^218
+Chemija^220
+Matematika^125
+^
+^
+Matematika^125
+Matematika^125
+Lietuvių kalba^112
+Anglų k.^114
+Fizika^218
+Lietuvių kalba^112
+Geografija^205
+^
+Anglų k.^114
+Krepšinis^
+Matematika^125
+Lietuvių kalba^112
+Lietuvių kalba^112
+Chemija^220
+^
+Geografija^205
+Matematika^125
+Chemija^220
+Anglų k.^114
+Šokis^
+Fizika^218
+Fizika^218
+^
+^
+Informacinės technologijos^214
+Matematika^125
+Tikyba^209
+Lietuvių kalba^112
+Krepšinis^
+^
+^

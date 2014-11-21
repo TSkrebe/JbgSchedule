@@ -1,0 +1,40 @@
+Chemija^220
+Šokis^
+Biologija^217
+Matematika^125
+Anglų k.^211
+Fizika^218
+^
+^
+^
+Lietuvių kalba^302
+Lietuvių kalba^302
+Matematika^125
+Istorija^221
+Anglų k.^211
+Matematika^125
+^
+^
+Istorija^221
+Tikyba^209
+Lietuvių kalba^302
+Matematika^125
+Matematika^125
+Fizika^218
+Fizika^218
+Tinklinis ^
+Lietuvių kalba^302
+Fizika^218
+Šokis^
+Biologija^217
+Anglų k.^211
+Chemija^220
+^
+Tinklinis ^
+Chemija^220
+Lietuvių kalba^302
+Anglų k.^211
+Matematika^125
+Biologija^217
+^
+^

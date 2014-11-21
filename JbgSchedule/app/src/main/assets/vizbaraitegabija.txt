@@ -1,0 +1,40 @@
+^
+Anglų k.^101
+Dailė^108
+Lietuvių kalba^302
+Chemija^220
+Prancūzų k.^105
+^
+Istorija^127
+^
+Matematika^203
+Matematika^203
+Lietuvių kalba^302
+Anglų k.^101
+Chemija^220
+Lietuvių kalba^302
+Kūno kultūra^
+^
+Anglų k.^101
+Istorija^127
+Matematika^203
+Lietuvių kalba^302
+Lietuvių kalba^302
+Prancūzų k.^114
+^
+Kūno kultūra^
+Matematika^203
+Prancūzų k.^114
+Anglų k.^101
+Dailė^108
+Chemija^220
+Istorija^127
+^
+^
+Istorija^127
+Matematika^203
+Tikyba^209
+Lietuvių kalba^302
+Dailė^108
+Informacinės technologijos^213
+^

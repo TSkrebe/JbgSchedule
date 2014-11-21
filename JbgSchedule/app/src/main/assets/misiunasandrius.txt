@@ -1,0 +1,40 @@
+^
+^
+Geografija^205
+Lietuvių kalba^302
+Anglų k.^126
+Biologija^217
+Matematika^203
+Istorija^127
+^
+Matematika^203
+Matematika^203
+Lietuvių kalba^302
+^
+Anglų k.^126
+Lietuvių kalba^302
+^
+Informacinės technologijos^214
+^
+Istorija^127
+Matematika^203
+Lietuvių kalba^302
+Lietuvių kalba^302
+Biologija^217
+Teatras^
+Teatras^
+Matematika^203
+Biologija^217
+^
+Geografija^205
+Anglų k.^126
+Istorija^127
+Krepšinis^
+Etika^224
+Istorija^127
+Matematika^203
+Anglų k.^126
+Lietuvių kalba^302
+Geografija^205
+Krepšinis^
+^

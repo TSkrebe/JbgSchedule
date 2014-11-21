@@ -1,0 +1,40 @@
+^
+Tinklinis ^
+Dailė^108
+Matematika^213
+Anglų k.^225
+Chemija^220
+Lietuvių kalba^112
+^
+^
+Lietuvių kalba^112
+Lietuvių kalba^112
+Matematika^213
+Istorija^221
+Anglų k.^225
+^
+^
+^
+Istorija^221
+Biologija^217
+Lietuvių kalba^112
+Matematika^213
+^
+Chemija^220
+^
+^
+Lietuvių kalba^112
+Chemija^220
+Tinklinis ^
+Dailė^108
+Anglų k.^225
+Biologija^217
+^
+^
+Biologija^217
+Lietuvių kalba^112
+Anglų k.^225
+Matematika^213
+Dailė^108
+Etika^224
+^

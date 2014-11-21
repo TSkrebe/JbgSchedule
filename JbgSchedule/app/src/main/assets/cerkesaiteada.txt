@@ -1,0 +1,40 @@
+^
+Tinklinis ^
+Šokis^
+Matematika^125
+Anglų k.^211
+Rusų k.^117
+^
+Istorija^127
+^
+Lietuvių kalba^302
+Lietuvių kalba^302
+Matematika^125
+Chemija^220
+Anglų k.^211
+Matematika^125
+^
+Informacinės technologijos^214
+Chemija^220
+Istorija^127
+Lietuvių kalba^302
+Matematika^125
+Matematika^125
+Rusų k.^117
+^
+Anglų kalba^225
+Lietuvių kalba^302
+Rusų k.^105
+^
+Šokis^
+Anglų k.^211
+Istorija^127
+^
+^
+Istorija^127
+Lietuvių kalba^302
+Anglų k.^211
+Matematika^125
+Tinklinis ^
+Etika^224
+^

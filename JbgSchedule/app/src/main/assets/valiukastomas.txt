@@ -1,0 +1,40 @@
+^
+Anglų k.^204
+Istorija^127
+Matematika^207
+Biologija^217
+Chemija^220
+^
+Istorija^127
+^
+Lietuvių kalba^223
+Lietuvių kalba^223
+Matematika^207
+Anglų k.^204
+Biologija^217
+^
+Biologiniai lygmenys^217
+^
+^
+Krepšinis^
+Lietuvių kalba^110
+Matematika^207
+Matematika^207
+Chemija^220
+Teatras^
+Teatras^
+Lietuvių kalba^305
+Chemija^220
+Anglų k.^204
+Istorija^127
+Biologija^217
+^
+Chemijos uždaviniai^220
+^
+^
+Lietuvių kalba^217
+Etika^224
+Matematika^207
+Istorija^127
+Krepšinis^
+^
